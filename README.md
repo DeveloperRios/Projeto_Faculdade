@@ -6,3 +6,6 @@ Foi elaborado um cenário fictício, onde um sistema controlaria a entrada de pe
 
 ![2019-09-22 (11)](https://user-images.githubusercontent.com/48067972/65394801-5d1c8c00-dd68-11e9-85bd-ef821aa2f30e.png)
 
+![2019-09-22 (12)](https://user-images.githubusercontent.com/48067972/65394817-aec51680-dd68-11e9-8b70-a91d91feca2c.png)
+
+
